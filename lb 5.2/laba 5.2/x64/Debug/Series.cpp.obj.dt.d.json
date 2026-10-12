@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\learn c\\lb 5.2\\laba 5.2\\series.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\learn c\\lb 5.2\\laba 5.2\\pch.h",
+            "d:\\learn c\\lb 5.2\\laba 5.2\\series.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\cmath",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\yvals.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\yvals_core.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\xkeycheck.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_doom_core.hpp",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.28000.0\\ucrt\\crtdbg.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.28000.0\\ucrt\\corecrt.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime_new_debug.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime_new.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\crtdefs.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\use_ansi.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\cstdlib",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.28000.0\\ucrt\\math.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.28000.0\\ucrt\\corecrt_math.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.28000.0\\ucrt\\stdlib.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.28000.0\\ucrt\\corecrt_malloc.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.28000.0\\ucrt\\corecrt_search.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.28000.0\\ucrt\\stddef.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.28000.0\\ucrt\\corecrt_wstdlib.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\limits.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\xtr1common",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\intrin0.h",
+            "d:\\visual\\visual studio 2026\\vc\\tools\\msvc\\14.51.36231\\include\\intrin0.inl.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
